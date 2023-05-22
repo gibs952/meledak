@@ -1,4 +1,4 @@
-module sheets
+module github.com/gibs952/meledak
 
 go 1.20
 
